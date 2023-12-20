@@ -1,0 +1,2 @@
+#fichier special contient la liste des fichiers a igniorer dans la gestion de version
+tmp/todo.txt
